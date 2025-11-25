@@ -3,5 +3,8 @@
 def soma(n1: float, n2: float):
     return n1 + n2
 
+#TODO: Seu nome cria a função de multiplicação
+def multiplicacao(n1: float, n2: float):
+    return n1 * n2
 
 #TODO: Nome colega cria a função de subtração
